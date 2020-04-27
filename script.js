@@ -11,3 +11,16 @@
  * Set a revisit or politeness policy
  * Refactor the crawler to use web workers
  */
+
+
+ // Design a function that will crawl a websites html
+
+ // I: A starting url
+
+ // O: 
+
+ // Find and display the first image on the wiki page
+
+ // then dive into the first <a href> found in the bodyContent 
+    // remeber to add https....concat....
+
